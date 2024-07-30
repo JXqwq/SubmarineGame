@@ -1,7 +1,7 @@
 import pygame
 import os
 import time
-from classes import buttons, spritesheet
+from backend.classes import buttons, spritesheet
 from backend.player import player, randomPlayer
 import json
 
